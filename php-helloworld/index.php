@@ -1,7 +1,2 @@
-<?php
-<<<<<<< HEAD
-print "Hello, World!!!!!!!!!!!. php version is " . PHP_VERSION . "\n";
-=======
-print "Hello, World. php version is " . PHP_VERSION . "\n";
->>>>>>> testbranch
-?>
+
+"Hello, World!. php version is v1.0"
