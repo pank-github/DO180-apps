@@ -1,1 +1,1 @@
-Hello from PODMAN
+Hello from OPENSHIFT4.10
